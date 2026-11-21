@@ -1,0 +1,6 @@
+{
+  "_note": "SORTIE D'EXEMPLE du modèle de prévision - à remplacer par le vrai modèle ML",
+  "ventes": {"horizon": "3 mois", "prevision_ca_dzd": [46000000, 45000000, 47500000], "intervalle_confiance_pct": 80},
+  "stock": {"horizon": "3 mois", "risque_rupture_sucre": "élevé", "date_rupture_estimee": "2027-01"},
+  "approvisionnements": {"horizon": "3 mois", "cout_matieres_variation_prevue_pct": 6.0}
+}

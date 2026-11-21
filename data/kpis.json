@@ -1,0 +1,8 @@
+{
+  "_note": "DONNÉES D'EXEMPLE - à remplacer par les vraies données ERP/Excel nettoyées",
+  "ventes":   {"periode": "2026-10", "ca_dzd": 48200000, "variation_pct": -12.4, "volume_unites": 310000, "variation_volume_pct": -9.1},
+  "production": {"periode": "2026-10", "taux_utilisation_pct": 71, "variation_pct": -6.0, "taux_rebut_pct": 3.8},
+  "stock": {"periode": "2026-10", "jours_de_stock": 38, "variation_pct": 15.2, "rupture_matieres": ["sucre"]},
+  "approvisionnements": {"periode": "2026-10", "delai_moyen_jours": 21, "variation_pct": 18.0, "cout_matieres_variation_pct": 9.5},
+  "finance": {"periode": "2026-10", "tresorerie_dzd": 12500000, "variation_pct": -8.2, "bc_en_attente": 7}
+}

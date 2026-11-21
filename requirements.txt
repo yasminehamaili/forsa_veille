@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+feedparser
+chromadb
+sentence-transformers
+anthropic
+fastapi
+uvicorn[standard]
+python-dotenv
